@@ -68,5 +68,5 @@ int main (){
        cout  << i+1 << "\t" << st[i].id << "\t" << st[i].name << "\t" << st[i].bang << "\t" << st[i].eng << "\t"  << st[i].math << "\t"  << st[i].total <<"\t" << setprecision(4)<< st[i].avg << "%\t" << "\t" << st[i].gpa << endl;
     }
     
-    
+    return 0;
 }
